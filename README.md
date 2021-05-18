@@ -20,7 +20,7 @@
 * You can edit and update information of category
 * You can delete a category
 
-3.User page: It contains the list of product
+3.Product page: It contains the list of product
 
 **What can you do with this page:**
 
